@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Ẩm thực &#8211; Phạm Tuấn Khanh</title>
+	<title>Ẩm thực &#8211; Các bài đăng</title>
 	<atom:link href="https://tuankhanh7692.github.io/Wordpress/category/am-thuc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tuankhanh7692.github.io/Wordpress</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Sun, 31 Jul 2022 08:49:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>https://tuankhanh7692.github.io/Wordpress/wp-content/uploads/2022/07/ProfilePicturePhoto.webp</url>
+	<title>Ẩm thực &#8211; Các bài đăng</title>
+	<link>https://tuankhanh7692.github.io/Wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Top trang web ẩm thực Việt dành cho tín đồ thích đặt đồ ăn online</title>
 		<link>https://tuankhanh7692.github.io/Wordpress/2022/07/31/top-trang-web-am-thuc-viet-danh-cho-tin-do-thich-dat-do-an-online/</link>

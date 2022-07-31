@@ -8,17 +8,25 @@
 	>
 
 <channel>
-	<title>Phạm Tuấn Khanh</title>
+	<title>Các bài đăng</title>
 	<atom:link href="https://tuankhanh7692.github.io/Wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tuankhanh7692.github.io/Wordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 31 Jul 2022 08:49:18 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sun, 31 Jul 2022 22:12:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>https://tuankhanh7692.github.io/Wordpress/wp-content/uploads/2022/07/ProfilePicturePhoto.webp</url>
+	<title>Các bài đăng</title>
+	<link>https://tuankhanh7692.github.io/Wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Top trang web ẩm thực Việt dành cho tín đồ thích đặt đồ ăn online</title>
 		<link>https://tuankhanh7692.github.io/Wordpress/2022/07/31/top-trang-web-am-thuc-viet-danh-cho-tin-do-thich-dat-do-an-online/</link>
@@ -258,7 +266,7 @@ h4 {
 
 
 
-<p class="has-text-align-right has-text-color has-small-font-size" style="color:#0000009c">(Trích dẫn từ <a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=H%E1%BB%87%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20(hay%20Th%C3%A1i%20D%C6%B0%C6%A1ng%20H%E1%BB%87)%5Ba%5D%20l%C3%A0%20h%E1%BB%87%20h%C3%A0nh%20tinh%20g%E1%BB%93m%20c%C3%B3%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20%E1%BB%9F%20trung%20t%C3%A2m%20v%C3%A0%20c%C3%A1c%20v%E1%BA%ADt%20quay%20xung%20quanh.%20H%E1%BB%87%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20t%E1%BB%AB%20s%E1%BB%B1%20suy%20s%E1%BB%A5p%20c%E1%BB%A7a%20m%E1%BB%99t%20%C4%91%C3%A1m%20m%C3%A2y%20ph%C3%A2n%20t%E1%BB%AD%20kh%E1%BB%95ng%20l%E1%BB%93%20c%C3%A1ch%20%C4%91%C3%A2y%20g%E1%BA%A7n%204%2C6%20t%E1%BB%B7%20n%C4%83m." target="_blank" rel="noreferrer noopener">Wikipedia</a>)</p>
+<p class="has-text-align-right has-text-color has-small-font-size" style="color:#ffffff9e">(Trích dẫn từ <a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=H%E1%BB%87%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20(hay%20Th%C3%A1i%20D%C6%B0%C6%A1ng%20H%E1%BB%87)%5Ba%5D%20l%C3%A0%20h%E1%BB%87%20h%C3%A0nh%20tinh%20g%E1%BB%93m%20c%C3%B3%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20%E1%BB%9F%20trung%20t%C3%A2m%20v%C3%A0%20c%C3%A1c%20v%E1%BA%ADt%20quay%20xung%20quanh.%20H%E1%BB%87%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%ACnh%20th%C3%A0nh%20t%E1%BB%AB%20s%E1%BB%B1%20suy%20s%E1%BB%A5p%20c%E1%BB%A7a%20m%E1%BB%99t%20%C4%91%C3%A1m%20m%C3%A2y%20ph%C3%A2n%20t%E1%BB%AD%20kh%E1%BB%95ng%20l%E1%BB%93%20c%C3%A1ch%20%C4%91%C3%A2y%20g%E1%BA%A7n%204%2C6%20t%E1%BB%B7%20n%C4%83m." target="_blank" rel="noreferrer noopener">Wikipedia</a>)</p>
 </div>
 
 
@@ -275,7 +283,7 @@ h4 {
 
 <div class="wp-container-11 wp-block-columns" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
 <div class="wp-container-9 wp-block-column is-vertically-aligned-top">
-<figure class="wp-block-image size-full is-resized" style="border-radius:8px"><img loading="lazy" src="https://tuankhanh7692.github.io/Wordpress/wp-content/uploads/2022/07/wordpress-shits.webp" alt="" class="wp-image-12" width="605" height="338"/><figcaption>Tên các hành tinh trong hệ mặt trời</figcaption></figure>
+<figure class="wp-block-image size-full is-resized" style="border-radius:8px"><img loading="lazy" src="https://tuankhanh7692.github.io/Wordpress/wp-content/uploads/2022/07/wordpress-shits.webp" alt="" class="wp-image-12" width="596" height="333"/><figcaption>Tên các hành tinh trong hệ mặt trời</figcaption></figure>
 </div>
 
 
@@ -313,7 +321,7 @@ h4 {
 
 
 
-<p class="wp-elements-626f8f99441372af494a9eddad0a3aaa has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Th%E1%BB%A7y%20(c%C3%A1ch,s%E1%BB%AD%20c%E1%BB%A7a%20n%C3%B3." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Th%E1%BB%A7y%20(c%C3%A1ch,s%E1%BB%AD%20c%E1%BB%A7a%20n%C3%B3." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
 </div>
 
 
@@ -337,7 +345,7 @@ h4 {
 
 
 
-<p class="wp-elements-1f9a503df3f06662c5823d2a63444567 has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Kim%20(c%C3%A1ch,b%C3%AAn%20trong%20n%C3%B3." target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Kim%20(c%C3%A1ch,b%C3%AAn%20trong%20n%C3%B3." target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
 </div>
 </div>
 
@@ -369,7 +377,7 @@ h4 {
 
 
 
-<p class="wp-elements-944bd5c0087f76308ccee852bdce96e1 has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20H%E1%BB%8Fa%20(c%C3%A1ch%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20kho%E1%BA%A3ng%201%2C5%20AU)%20c%C3%B3%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20nh%E1%BB%8F%20h%C6%A1n%20Tr%C3%A1i%20%C4%90%E1%BA%A5t%20v%C3%A0%20Sao%20Kim%20(kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20b%E1%BA%B1ng%200%2C107%20l%E1%BA%A7n%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20Tr%C3%A1i%20%C4%90%E1%BA%A5t).%20N%C3%B3%20c%C3%B3%201%20b%E1%BA%A7u%20kh%C3%AD%20quy%E1%BB%83n%20ch%E1%BB%A9a%20ch%E1%BB%A7%20y%E1%BA%BFu%20l%C3%A0%20cacbon%20dioxide%20(CO2)%20v%E1%BB%9Bi%20%C3%A1p%20su%E1%BA%A5t%20kh%C3%AD%20quy%E1%BB%83n%20t%E1%BA%A1i%20b%E1%BB%81%20m%E1%BA%B7t%20b%E1%BA%B1ng%206%2C1%20millibar%20(g%E1%BA%A7n%20b%E1%BA%B1ng%200%2C6%25%20%C3%A1p%20su%E1%BA%A5t%20kh%C3%AD%20quy%E1%BB%83n%20t%E1%BA%A1i%20b%E1%BB%81%20m%E1%BA%B7t%20c%E1%BB%A7a%20Tr%C3%A1i%20%C4%90%E1%BA%A5t)." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20H%E1%BB%8Fa%20(c%C3%A1ch%20M%E1%BA%B7t%20Tr%E1%BB%9Di%20kho%E1%BA%A3ng%201%2C5%20AU)%20c%C3%B3%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20nh%E1%BB%8F%20h%C6%A1n%20Tr%C3%A1i%20%C4%90%E1%BA%A5t%20v%C3%A0%20Sao%20Kim%20(kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20b%E1%BA%B1ng%200%2C107%20l%E1%BA%A7n%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20Tr%C3%A1i%20%C4%90%E1%BA%A5t).%20N%C3%B3%20c%C3%B3%201%20b%E1%BA%A7u%20kh%C3%AD%20quy%E1%BB%83n%20ch%E1%BB%A9a%20ch%E1%BB%A7%20y%E1%BA%BFu%20l%C3%A0%20cacbon%20dioxide%20(CO2)%20v%E1%BB%9Bi%20%C3%A1p%20su%E1%BA%A5t%20kh%C3%AD%20quy%E1%BB%83n%20t%E1%BA%A1i%20b%E1%BB%81%20m%E1%BA%B7t%20b%E1%BA%B1ng%206%2C1%20millibar%20(g%E1%BA%A7n%20b%E1%BA%B1ng%200%2C6%25%20%C3%A1p%20su%E1%BA%A5t%20kh%C3%AD%20quy%E1%BB%83n%20t%E1%BA%A1i%20b%E1%BB%81%20m%E1%BA%B7t%20c%E1%BB%A7a%20Tr%C3%A1i%20%C4%90%E1%BA%A5t)." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
 </div>
 
 
@@ -397,7 +405,7 @@ h4 {
 
 
 
-<p class="wp-elements-f5c51bb154b53edc8618be2e44df9752 has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20M%E1%BB%99c%20(kho%E1%BA%A3ng,%C4%91%E1%BB%8F%20l%E1%BB%9Bn." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20M%E1%BB%99c%20(kho%E1%BA%A3ng,%C4%91%E1%BB%8F%20l%E1%BB%9Bn." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
 </div>
 
 
@@ -421,7 +429,7 @@ h4 {
 
 
 
-<p class="wp-elements-a0698b6192e994bfd69ec20e53be5315 has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Th%E1%BB%95%20(kho%E1%BA%A3ng,n%C6%B0%E1%BB%9Bc%20l%E1%BB%8Fng)" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Th%E1%BB%95%20(kho%E1%BA%A3ng,n%C6%B0%E1%BB%9Bc%20l%E1%BB%8Fng)" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
 </div>
 </div>
 
@@ -437,7 +445,7 @@ h4 {
 
 
 
-<p class="wp-elements-3cdc75198bd4ea16c756c2d6b87c2093 has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Thi%C3%AAn%20V%C6%B0%C6%A1ng%20(kho%E1%BA%A3ng,kh%C3%B4ng%20gian%20c%C5%A9ng%20nh%E1%BB%8F." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20Thi%C3%AAn%20V%C6%B0%C6%A1ng%20(kho%E1%BA%A3ng,kh%C3%B4ng%20gian%20c%C5%A9ng%20nh%E1%BB%8F." data-type="URL" target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
 </div>
 
 
@@ -461,7 +469,7 @@ h4 {
 
 
 
-<p class="wp-elements-872566d4043ece9a4de938233b0afe22 has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20H%E1%BA%A3i%20V%C6%B0%C6%A1ng%20(kho%E1%BA%A3ng%20c%C3%A1ch%20%C4%91%E1%BA%BFn%20M%E1%BA%B7t%20Tr%E1%BB%9Di%2030%20AU)%2C%20m%E1%BA%B7c%20d%C3%B9%20k%C3%ADch%20c%E1%BB%A1%20h%C6%A1i%20nh%E1%BB%8F%20h%C6%A1n%20Sao%20Thi%C3%AAn%20V%C6%B0%C6%A1ng%20nh%C6%B0ng%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20n%C3%B3%20l%E1%BA%A1i%20l%E1%BB%9Bn%20h%C6%A1n%20(b%E1%BA%B1ng%2017%20l%E1%BA%A7n%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20Tr%C3%A1i%20%C4%90%E1%BA%A5t)%20v%C3%A0%20do%20v%E1%BA%ADy%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20ri%C3%AAng%20l%E1%BB%9Bn%20h%C6%A1n.%20N%C3%B3%20c%C5%A9ng%20b%E1%BB%A9c%20x%E1%BA%A1%20nhi%E1%BB%81u%20nhi%E1%BB%87t%20l%C6%B0%E1%BB%A3ng%20h%C6%A1n%20nh%C6%B0ng%20kh%C3%B4ng%20l%E1%BB%9Bn%20b%E1%BA%B1ng%20c%E1%BB%A7a%20Sao%20M%E1%BB%99c%20hay%20Sao%20Th%E1%BB%95." target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_M%E1%BA%B7t_Tr%E1%BB%9Di#:~:text=Sao%20H%E1%BA%A3i%20V%C6%B0%C6%A1ng%20(kho%E1%BA%A3ng%20c%C3%A1ch%20%C4%91%E1%BA%BFn%20M%E1%BA%B7t%20Tr%E1%BB%9Di%2030%20AU)%2C%20m%E1%BA%B7c%20d%C3%B9%20k%C3%ADch%20c%E1%BB%A1%20h%C6%A1i%20nh%E1%BB%8F%20h%C6%A1n%20Sao%20Thi%C3%AAn%20V%C6%B0%C6%A1ng%20nh%C6%B0ng%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20n%C3%B3%20l%E1%BA%A1i%20l%E1%BB%9Bn%20h%C6%A1n%20(b%E1%BA%B1ng%2017%20l%E1%BA%A7n%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20Tr%C3%A1i%20%C4%90%E1%BA%A5t)%20v%C3%A0%20do%20v%E1%BA%ADy%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20ri%C3%AAng%20l%E1%BB%9Bn%20h%C6%A1n.%20N%C3%B3%20c%C5%A9ng%20b%E1%BB%A9c%20x%E1%BA%A1%20nhi%E1%BB%81u%20nhi%E1%BB%87t%20l%C6%B0%E1%BB%A3ng%20h%C6%A1n%20nh%C6%B0ng%20kh%C3%B4ng%20l%E1%BB%9Bn%20b%E1%BA%B1ng%20c%E1%BB%A7a%20Sao%20M%E1%BB%99c%20hay%20Sao%20Th%E1%BB%95." target="_blank" rel="noreferrer noopener">Đọc thêm&#8230;</a></p>
 </div>
 </div>
 </div>
@@ -503,7 +511,7 @@ h4 {
 
 
 
-<p class="wp-elements-72e5a2d49e91e1143a0a60f4221030a7 has-text-align-right has-link-color" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_ngo%C3%A0i_Sao_H%E1%BA%A3i_V%C6%B0%C6%A1ng" data-type="URL" data-id="https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_ngo%C3%A0i_Sao_H%E1%BA%A3i_V%C6%B0%C6%A1ng" target="_blank" rel="noreferrer noopener">Tìm hiểu thêm trên Wikipedia</a></p>
+<p class="has-text-align-right" style="font-size:0.9rem"><a href="https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_ngo%C3%A0i_Sao_H%E1%BA%A3i_V%C6%B0%C6%A1ng" data-type="URL" data-id="https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_ngo%C3%A0i_Sao_H%E1%BA%A3i_V%C6%B0%C6%A1ng" target="_blank" rel="noreferrer noopener">Tìm hiểu thêm trên Wikipedia</a></p>
 </div>
 
 
