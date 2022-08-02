@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Các bài đăng</title>
+	<title>TUANK WordPress</title>
 	<atom:link href="https://tuankhanh7692.github.io/Wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tuankhanh7692.github.io/Wordpress</link>
-	<description></description>
-	<lastBuildDate>Sun, 31 Jul 2022 22:12:04 +0000</lastBuildDate>
+	<description>Wordpress của Phạm Tuấn Khanh - Siêu nhân Lập trình Web phần 5</description>
+	<lastBuildDate>Tue, 02 Aug 2022 05:40:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,15 +22,14 @@
 
 <image>
 	<url>https://tuankhanh7692.github.io/Wordpress/wp-content/uploads/2022/07/ProfilePicturePhoto.webp</url>
-	<title>Các bài đăng</title>
+	<title>TUANK WordPress</title>
 	<link>https://tuankhanh7692.github.io/Wordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Top trang web ẩm thực Việt dành cho tín đồ thích đặt đồ ăn online</title>
-		<link>https://tuankhanh7692.github.io/Wordpress/2022/07/31/top-trang-web-am-thuc-viet-danh-cho-tin-do-thich-dat-do-an-online/</link>
-					<comments>https://tuankhanh7692.github.io/Wordpress/2022/07/31/top-trang-web-am-thuc-viet-danh-cho-tin-do-thich-dat-do-an-online/#respond</comments>
+		<title>Top những dịch vụ đặt đồ ăn</title>
+		<link>https://tuankhanh7692.github.io/Wordpress/am-thuc/177/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2022 08:48:38 +0000</pubDate>
@@ -180,15 +179,13 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tuankhanh7692.github.io/Wordpress/2022/07/31/top-trang-web-am-thuc-viet-danh-cho-tin-do-thich-dat-do-an-online/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Giới thiệu về hệ mặt trời</title>
-		<link>https://tuankhanh7692.github.io/Wordpress/2022/07/31/solar-system/</link>
-					<comments>https://tuankhanh7692.github.io/Wordpress/2022/07/31/solar-system/#respond</comments>
+		<link>https://tuankhanh7692.github.io/Wordpress/discover/8/</link>
+					<comments>https://tuankhanh7692.github.io/Wordpress/discover/8/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2022 05:56:36 +0000</pubDate>
@@ -535,7 +532,7 @@ h4 {
 <p class="has-text-align-center">Trên đây là một số thông tin về Hệ Mặt Trời mà em muốn chia sẻ. Hy vọng sau khi đọc xong bài viết này, các bạn đã có thêm một số kiến thức bổ ích về sự hình thành của Hệ Mặt Trời như thế nào cũng như vị trí và sự di chuyển của nó trong vũ trụ. <strong>Cảm ơn bạn đã quan tâm theo dõi bài viết!</strong></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tuankhanh7692.github.io/Wordpress/2022/07/31/solar-system/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tuankhanh7692.github.io/Wordpress/discover/8/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
