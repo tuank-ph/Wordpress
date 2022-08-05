@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tuankhanh7692/Wordpress/blob/52c74768409388427322738a6fcf9f8314c9cb1e/source/images/WPLogo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tuankhanh7692/Wordpress/blob/52c74768409388427322738a6fcf9f8314c9cb1e/source/images/WPLogo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tuankhanh7692/Wordpress/blob/52c74768409388427322738a6fcf9f8314c9cb1e/source/images/WPLogo-light.png">
    <img>
 </picture>
 
