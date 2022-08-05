@@ -1,3 +1,4 @@
+![None](source/images/Wordpress background.png)
 # tuank Wordpress
 
 ### Nhấp vào [đây](https://tuankhanh7692.github.io/Wordpress/) để chuyển đến trang web.<br>Click [here](https://tuankhanh7692.github.io/Wordpress/) to go to the website.
