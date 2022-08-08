@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for TUANK WordPress	</title>
-	<atom:link href="https://tuankhanh7692.github.io/Wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tuankhanh7692.github.io/Wordpress</link>
+	<atom:link href="https://www.pham.tk/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pham.tk</link>
 	<description>Wordpress của Phạm Tuấn Khanh - Siêu nhân Lập trình Web phần 5</description>
-	<lastBuildDate>Tue, 02 Aug 2022 05:40:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Aug 2022 08:51:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
