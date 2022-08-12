@@ -20,6 +20,5 @@ Welcome to my **Wordpress Github** repository!
 - **Link to Github pages:** <https://www.pham.tk>
 
 
-[website]: https://www.pham.tk
-[vi-website]: [website] "Mở website"
-[en-website]: [website] "Go to website"
+[vi-website]: https://www.pham.tk "Mở website"
+[en-website]: https://www.pham.tk "Go to website"
