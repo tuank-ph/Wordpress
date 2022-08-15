@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('https://www.gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/ajax-loader.gif') center center no-repeat;
+    background: #fff url('https://gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,8 +12,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('https://www.gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.eot');
-    src: url('https://www.gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.eot#iefix') format('embedded-opentype'), url('https://www.gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.woff') format('woff'), url('https://www.gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.ttf') format('truetype'), url('https://www.gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.svg#slick') format('svg');
+    src: url('https://gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.eot');
+    src: url('https://gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.eot#iefix') format('embedded-opentype'), url('https://gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.woff') format('woff'), url('https://gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.ttf') format('truetype'), url('https://gh.pham.tk/wp-content/themes/fairy/candidthemes/assets/framework/slick/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,
