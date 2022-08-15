@@ -17,9 +17,8 @@ Welcome to my **Wordpress Github** repository!
 - **Contact:**
    - **Name**: _Phạm Tuấn Khanh_.
    - **Email**: [tuankhanh7692@gmail.com](mailto:tuankhanh7692@gmail.com)
-- **Link to Github pages:** <https://tuankhanh7692.github.io/Wordpress>
+- **Link to Github pages:** <https://www.pham.tk>
 
 
-[website]: https://tuankhanh7692.github.io/Wordpress
-[vi-website]: [website] "Mở website"
-[en-website]: [website] "Go to website"
+[vi-website]: https://www.pham.tk "Mở website"
+[en-website]: https://www.pham.tk "Go to website"
